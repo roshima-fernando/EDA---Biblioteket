@@ -13,7 +13,7 @@
 ![Lån per genre](images/fig_loan_days_box.png)
 
 ### Tabeller(expoterade)
--`data/pivot_branch_x_genre.csv`
+- `data/pivot_branch_x_genre.csv`
 
 ### Slutsatser baserat på aktuell data
 - **Topp-genre:** 1.Biografi (22), 2.Fakta(22), 3.Deckare(20).
