@@ -24,7 +24,7 @@
 
 
 ## MiljÖ
-- **Python:** 
+- **Python:** 3.14.7
 - **Paket:** `Pandas`,`matplotlib`(se requirements.txt`)
 
 ## Kom igång
